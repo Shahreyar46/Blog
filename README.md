@@ -2,7 +2,7 @@
 ###  **Project Name:  Blog**
 ### **This is a Html,Css ,Bootstarp template.**
 ### Live:   https://shahreyar46.github.io/Blog/
-### **Built With**
+### **Build With**
 
 - HTML5
 
